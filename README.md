@@ -2,7 +2,7 @@
 # 🏢 Enterprise Multi-Floor Network Design
 ### Cisco Packet Tracer Simulation
 
-![Network Topology](<img width="2098" height="1152" alt="Screenshot 2026-06-09 at 11 27 08 PM" src="https://github.com/user-attachments/assets/d877cf18-b9aa-4d44-aab5-6596c05c965b" />
+![Network Topology](<img width="2098" height="1152" alt="Screenshot 2026-06-09 at 11 27 08 PM" src="https://github.com/user-attachments/assets/d877cf18-b9aa-4d44-aab5-6596c05c965b" />)
 
 
 > A fully functional enterprise-grade network simulation built in Cisco Packet Tracer, spanning **4 floors** with **12 VLANs**, inter-VLAN routing, redundant Layer 3 switching, and scalable wireless access — designed to reflect real-world corporate network architecture.
